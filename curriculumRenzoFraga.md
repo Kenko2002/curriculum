@@ -3,7 +3,7 @@
 
 # RENZO FRAGA LOUREIRO MARINHO
 
-**Desenvolvedor de Software | Full Stack | Backend | APIs | Python | Django | Node.js**
+**Desenvolvedor de Software | Full Stack | Backend **
 
 **Telefone:** +27 998821080
 **E-mail:** [renzofraga49@gmail.com](mailto:renzofraga49@gmail.com)
