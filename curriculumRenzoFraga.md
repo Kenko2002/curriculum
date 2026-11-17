@@ -135,7 +135,8 @@ Experiência em **levantamento de requisitos, análise de sistemas, prototipaç�
 
 ### Atendente de IA, RAG para a faculdade Python AGNO.
 
-*Desenvolvimento de um atendente simples, que lê um PDF com informações sobre o curso e responde o aluno.
+*Desenvolvimento de um atendente simples, que lê um PDF com informações sobre o curso e responde o aluno.*
+
 ---
 
 ## EDUCAÇÃO
@@ -143,7 +144,7 @@ Experiência em **levantamento de requisitos, análise de sistemas, prototipaç�
 ### Instituto Federal do Espírito Santo — IFES Campus Serra
 
 **Bacharelado em Sistemas de Informação**
-**Em andamento | Previsão de conclusão: Junho de 2026**
+**Concluído**
 
 **Principais áreas de conhecimento:**
 
