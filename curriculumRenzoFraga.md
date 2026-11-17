@@ -53,7 +53,7 @@ Experiência em **levantamento de requisitos, análise de sistemas, prototipaç�
 
 ### Instituto Federal do Espírito Santo — Laboratório LEDS & Zaruc Tecnologia S.A.
 
-**Estagiário de Sistemas | Desenvolvedor de Software**
+**Estagiário de Sistemas | Desenvolvedor de Software Java/Python/Nextjs/Flutter/POSTGRESQL**
 **Outubro de 2025 – Atual | Remoto**
 
 * Desenvolvimento e manutenção de solução corporativa voltada ao **monitoramento de consumo energético no setor industrial**.
@@ -64,7 +64,7 @@ Experiência em **levantamento de requisitos, análise de sistemas, prototipaç�
 
 ### Instituto Federal do Espírito Santo — Laboratório LEDS
 
-**Estagiário de Sistemas | Desenvolvedor Full Stack**
+**Estagiário de Sistemas | Desenvolvedor Full Stack VUEjs/Python Django/POSTGRESQL**
 **Março de 2024 – Outubro de 2025 | Remoto**
 
 * Desenvolvimento Full Stack de uma solução **Web e Mobile para gerenciamento de prestação de Serviço Comunitário**, em equipe de três desenvolvedores.
@@ -78,7 +78,7 @@ Experiência em **levantamento de requisitos, análise de sistemas, prototipaç�
 
 ### Tribunal de Justiça do Estado do Espírito Santo
 
-**Estagiário de Sistemas | Desenvolvedor Web**
+**Estagiário de Sistemas | Desenvolvedor Web PHP/HTML/CSS/POSTGRESQL**
 **Março de 2023 – Março de 2024 | Vitória, ES**
 
 * Realização de **levantamento de requisitos, prototipação, desenvolvimento, testes e implantação** de módulos do sistema E-GAP.
@@ -92,10 +92,10 @@ Experiência em **levantamento de requisitos, análise de sistemas, prototipaç�
 
 ### Freelancer
 
-**Desenvolvedor Backend / Node.js**
+**Desenvolvedor Backend / Node.js /POSTGRESQL / PHP **
 **2022 – 2023**
 
-* Desenvolvimento de aplicações e soluções sob demanda utilizando **Node.js e JavaScript**.
+* Desenvolvimento de aplicações e soluções sob demanda.
 * Desenvolvimento e integração de **APIs REST**.
 * Implementação de funcionalidades backend e integração com bancos de dados.
 * Desenvolvimento de soluções personalizadas de acordo com requisitos dos projetos.
@@ -103,7 +103,7 @@ Experiência em **levantamento de requisitos, análise de sistemas, prototipaç�
 
 ### Access Informática
 
-**Desenvolvedor Web**
+**Desenvolvedor Web PHP/ HTML/ CSS/ JS com Jquery e POSTGRESQL**
 **2021 – 2022**
 
 * Desenvolvimento e manutenção de sistemas Web utilizando **PHP, HTML e CSS**.
@@ -133,6 +133,9 @@ Experiência em **levantamento de requisitos, análise de sistemas, prototipaç�
 * Desenvolvimento de funcionalidades para busca e direcionamento de usuários para instituições de apoio.
 * Participação na definição de requisitos, arquitetura e desenvolvimento da solução.
 
+### Atendente de IA, RAG para a faculdade Python AGNO.
+
+*Desenvolvimento de um atendente simples, que lê um PDF com informações sobre o curso e responde o aluno.
 ---
 
 ## EDUCAÇÃO
@@ -203,5 +206,3 @@ Experiência em **levantamento de requisitos, análise de sistemas, prototipaç�
 Software Developer, Desenvolvedor de Software, Desenvolvedor Full Stack, Desenvolvedor Backend, Desenvolvedor Web, Python Developer, Node.js Developer, Backend Developer, Full Stack Developer, PHP Developer, JavaScript, TypeScript, Python, Django, Node.js, REST API, API REST, Angular, Ionic, Vue.js, Java, Spring Boot, C#, .NET, Entity Framework, PostgreSQL, MySQL, MongoDB, Neo4j, Graph Database, Power BI, Business Intelligence, AWS, Firebase, Vercel, Git, Linux, CI/CD, Docker, Engenharia de Software, Inteligência Artificial, Machine Learning, Data Science, Redes Neurais, Desenvolvimento Web, Desenvolvimento Mobile, Sistemas Distribuídos, Banco de Dados, Cloud Computing.
 
 ---
-
-*Observação rápida:* Se a atuação na CEDTEC ainda estiver em andamento, você pode alterar a data para **`Novembro de 2026 – Atual | Guarapari, ES`**; e, caso queira destacar tópicos específicos que ministrou (como *Power Query* ou *DAX*), basta me avisar que ajusto os tópicos da experiência! Also, notei que na seção de Educação ainda consta *"Previsão de conclusão: Junho de 2026"* — se já tiver concluído, vale atualizar também.
